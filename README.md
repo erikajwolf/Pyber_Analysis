@@ -5,7 +5,7 @@ V. Isualize has given us a new assignment--to create an analysis by ride-sharing
 
 ## Results
 ### Weekly Fares by City Type
-![PyBer_fare_summary](/PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](/Pyber_Analysis/Analysis/PyBer_fare_summary.png)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ## Summary
